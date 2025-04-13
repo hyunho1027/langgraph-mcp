@@ -6,6 +6,8 @@ ref: https://github.com/langchain-ai/langchain-mcp-adapters
 
 This library provides a lightweight wrapper that makes [Anthropic Model Context Protocol (MCP)](https://modelcontextprotocol.io/introduction) tools compatible with [LangChain](https://github.com/langchain-ai/langchain) and [LangGraph](https://github.com/langchain-ai/langgraph).
 
+![MCP](https://github.com/langchain-ai/langchain-mcp-adapters/blob/main/static/img/mcp.png)
+
 ## Features
 
 - 🛠️ Convert MCP tools into [LangChain tools](https://python.langchain.com/docs/concepts/tools/) that can be used with [LangGraph](https://github.com/langchain-ai/langgraph) agents
